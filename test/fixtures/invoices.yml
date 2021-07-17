@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  'no': MyString
+  date_create: 2021-07-15
+  supply: 2021-07-15
+  comment: MyString
+
+two:
+  'no': MyString
+  date_create: 2021-07-15
+  supply: 2021-07-15
+  comment: MyString
